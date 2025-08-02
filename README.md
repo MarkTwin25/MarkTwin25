@@ -5,14 +5,14 @@ Hi, There!</h1>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;I+Am+Martín+Marín;Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" width="320"/>
+<img align="left" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" width="320"/>z
 <hr>
 
 ```
 I am Martín Marín
 -------------------------
 💻 I am a computer science student, I am currently in the 7th semester.
-📝 I'm passionate about web development 
+📝 I'm passionate about web development (mainly backend)
 🔭 I'm eager to collaborate on interesting projects, and grow as a developer.
 Let's build something great together!
 🌟 Main languages: Python, Java
@@ -39,6 +39,7 @@ Let's build something great together!
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+    <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-563?style=for-the-badge&logo=flask&logoColor=white"></a>
 
 </p>
@@ -57,7 +58,6 @@ Let's build something great together!
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
